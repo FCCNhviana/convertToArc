@@ -1,0 +1,3 @@
+[submodule "pywb-opensearch-mobile"]
+	path = pywb-opensearch-mobile
+	url = https://github.com/FCCNhviana/pywb-opensearch-mobile
